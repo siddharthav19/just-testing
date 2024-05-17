@@ -1,2 +1,4 @@
 hey bro brother
 read from terminal
+
+refactored the code
